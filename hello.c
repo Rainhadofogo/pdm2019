@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "printn.h"
 
 int main(int argc, char* argv[])
 {
-  printf("hello, %s\n", argv[1]);
+  printn(argv[1]);
   return 0;
 }
