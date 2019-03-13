@@ -10,6 +10,7 @@ int main(int argc, char* argv[])
     int a = atoi(argv[2]);
     int b = atoi(argv[3]);
     printf("soma:%d\n", a+b);
+    printf("pdm 2019")
   }
   return 0;
 }
